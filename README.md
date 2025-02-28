@@ -47,7 +47,7 @@ A full-stack **Instagram clone** built with the **MERN stack** (MongoDB, Express
 
 1. Clone the repository:
    ```sh
-   
+   https://github.com/pavanb0009/instagram-clone.git
    ```
 
 2. Install dependencies:
