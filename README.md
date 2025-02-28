@@ -11,13 +11,10 @@ A full-stack **Instagram clone** built with the **MERN stack** (MongoDB, Express
 - **JWT Authentication** for API security
 
 ### 💬 Real-Time Chat (Socket.IO)
-- Live messaging with **seen & typing indicators**
-- **Unread message count** & real-time conversation updates
-- Online/offline user status
+- Live messaging with 
 
 ### 📸 Instagram-Like Features
-- **Reels & Posts** (OneStack-powered)
-- **Like, Comment, Share** functionality
+- **Reels & Posts** (Coming soon)
 - **Story Feature** (coming soon)
 
 ### 🎨 Modern UI & UX
